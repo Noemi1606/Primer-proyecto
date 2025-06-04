@@ -3,7 +3,7 @@ numero_inicial = int(input("Ingresa un número entero: "))
 
 numero_actual = numero_inicial
 print(f"Contando desde {numero_inicial} hasta 0:")
-
+99
 while numero_actual >= 0:
     print(numero_actual)
     numero_actual -= 1
